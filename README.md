@@ -1,6 +1,6 @@
 # Npp.SqlVarBinaryGzip: Notepad++ Plugin for GZIP Data Extraction from SQL Server Varbinary Fields
 
-A lightweight Notepad++ plugin that converts GZIP compressed data stored in varbinary fields of SQL Server databases, enabling easy extraction and viewing of compressed content directly within the editor. **This plugin is compatible with the win-x64 runtime only**.
+A lightweight Notepad++ plugin that converts GZIP compressed data stored in varbinary fields of SQL Server databases, enabling easy extraction and viewing of compressed content directly within the editor. **This plugin is compatible with Notepad++ 64-bit only**
 
 
 ## How to Install the Plugin
